@@ -19,6 +19,11 @@ public class VariableApp {
         double coffeePrice = 4.99;
         char favoriteLetter = 'J';
         boolean isRaining = true;
+        System.out.println("There are " + daysInWeek + " days in a week.");
+        System.out.println("The price of the coffee is " + "$" + coffeePrice);
+        System.out.println("My favorite letter is " + favoriteLetter);
+        System.out.println("Is it raining? " + isRaining);
+
 
 
 
