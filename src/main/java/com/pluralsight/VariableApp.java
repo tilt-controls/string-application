@@ -14,6 +14,13 @@ public class VariableApp {
         System.out.println("Do I have pets?: " + havePets);
         System.out.println(niceMessage);
 
+        //Step 2: Declare and Initialize Variables
+        int daysInWeek = 7;
+        double coffeePrice = 4.99;
+        char favoriteLetter = 'J';
+        boolean isRaining = true;
+
+
 
 
 
